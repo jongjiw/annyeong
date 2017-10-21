@@ -1,5 +1,7 @@
-def main():
-    for _ in range(int(input())):
-        print("Hello JongJiw")
+def main(times):
+    for _ in range(times):
+        print("Hello")
 
-main()
+    print("Kim Jonghyun")
+
+main(int()input())
